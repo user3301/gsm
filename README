@@ -1,0 +1,4 @@
+Some metric for measuring string difference using Go
+
+1. Levenshtein distance
+2. Hamming distance
